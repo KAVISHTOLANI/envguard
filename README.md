@@ -1,5 +1,17 @@
 # EnvGuard
 
+<!-- screenshots:start -->
+<p align="center">
+  <img src="docs/screenshots/desktop.png" alt="EnvGuard on a Mac (1440×900)" width="100%">
+</p>
+<p align="center">
+  <img src="docs/screenshots/tablet.png" alt="EnvGuard on a tablet" height="460">
+  &nbsp;&nbsp;
+  <img src="docs/screenshots/phone.png" alt="EnvGuard on a phone" height="460">
+</p>
+<p align="center"><sub>Mac (1440×900) · Tablet (820×1180) · Phone (390×844)</sub></p>
+<!-- screenshots:end -->
+
 Check a `.env` file against the keys your app requires. EnvGuard reports missing, empty, invalid and extra keys plus line-level syntax problems — and never displays, stores or sends any value.
 
 **Live demo:** [https://kavishtolani.github.io/envguard/](https://kavishtolani.github.io/envguard/) — runs entirely in your browser; demo data is fictional and labelled.
