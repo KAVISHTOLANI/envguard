@@ -3,6 +3,7 @@
   "private": true,
   "version": "0.1.0",
   "description": "Check .env files against a required-key schema without revealing values.",
+  "license": "MIT",
   "type": "module",
   "scripts": {
     "dev": "vite",

@@ -2,6 +2,8 @@
 
 Check a `.env` file against the keys your app requires. EnvGuard reports missing, empty, invalid and extra keys plus line-level syntax problems — and never displays, stores or sends any value.
 
+**Live demo:** [https://kavishtolani.github.io/envguard/](https://kavishtolani.github.io/envguard/) — runs entirely in your browser; demo data is fictional and labelled.
+
 ![Check view](docs/check.png)
 
 | Landing | Mobile |
@@ -47,3 +49,7 @@ npm run test:e2e   # Playwright smoke test (npm run e2e:install once if Chromium
 ## Future improvements
 
 - Variable expansion and multi-line values; compare several environments (dev / staging / prod) side by side.
+
+## Licence
+
+MIT — see [LICENSE](LICENSE).
